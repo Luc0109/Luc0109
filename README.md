@@ -3,5 +3,5 @@
 ✨ Olá, me chamo Lucas!
 
 
-📖 Recentemente iniciei um curso tecnico de programação em jogos digitais no<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=600&size=25&pause=1&color=FF0000&background=FF000000&random=false&width=435&lines=SENAI" alt="Typing SVG" /></a>
+📖 Recentemente iniciei um curso tecnico de programação em jogos digitais no href=<img src="https://readme-typing-svg.herokuapp.com?font=&weight=600&size=25&pause=1&color=FF0000&background=FF000000&random=false&width=435&lines=SENAI" alt="Typing SVG" />
 
