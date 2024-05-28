@@ -6,8 +6,7 @@
 📖 Recentemente iniciei um curso técnico em programação de jogos digitais no  <img src="https://readme-typing-svg.herokuapp.com?font=&weight=600&size=25&pause=1&color=FF0000&background=FF000000&random=false&width=435&lines=SENAI" alt="Typing SVG" />
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-
+ 
 
 ##
 
